@@ -146,7 +146,7 @@ Now you can install offline instantly on **any system**.
 
 * Permanent local cache
 * Super-fast registry
-* Offline support
+* Low Internet support
 * Forced commands to bypass errors
 * Works for Next.js, React, Node.js
 
